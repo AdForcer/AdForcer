@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdForcer
 - 👀 I’m interested in becoming a cool programer
-- 🌱 I’m currently learning python (I know c++ basics like pointers structyres and dynamic massives)
-- 📫 You cant, sry mate
+- 🌱 I’m currently learning python (I know c++ basics, yay)
+- 📫 You cant reach me, sry mate, I don't think you need tho
 - 😄 Pronouns: :3
 - ⚡ Fun fact: Diseases are a deception of pharmaceutical companies, your body punishes you for your mistakes
 
