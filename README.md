@@ -4,11 +4,12 @@
 - 📫 You cant reach me, sry mate, I don't think you need tho
 - 😄 Pronouns: anarcho-capitalism 📈🤝🏴💛
 - ⚡ Fun fact: Diseases are a deception of pharmaceutical companies, your body punishes you for your mistake
- ____  ____  _____ ____  ____  ____ _____ ____ 
-/  _ \/  _ \/    //  _ \/  __\/   _Y  __//  __\
-| / \|| | \||  __\| / \||  \/||  / |  \  |  \/|
-| |-||| |_/|| |   | \_/||    /|  \_|  /_ |    /
-\_/ \|\____/\_/   \____/\_/\_\\____|____\\_/\_\
-                                               
-                                                                              
+              _ ______                      
+     /\      | |  ____|                     
+    /  \   __| | |__ ___  _ __ ___ ___ _ __ 
+   / /\ \ / _` |  __/ _ \| '__/ __/ _ \ '__|
+  / ____ \ (_| | | | (_) | | | (_|  __/ |   
+ /_/    \_\__,_|_|  \___/|_|  \___\___|_|   
+                                            
+                                                                    
                                                                               
